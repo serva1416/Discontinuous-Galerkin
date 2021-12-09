@@ -21,7 +21,7 @@ def g(x, centro):#condicion inicial para el PVI
 
 
 
-#__________________________NUMERO DE CELDAS Y FUNCIONES BASE____________________________________________________________
+#__________________________NUMERO DE CELDAS Y FUNCIONES BASE____________________________________________________________ 
 '''el numero de nodos necesariamente aumenta conforme aunmenta el grado de nuestras funciones base'''
 num_celdas=20         #<---------------------numero de celdas para el dominio
 num_bases=2#(por el momento solo he definido la primeras 3 funciones bases, pero se pueden agregar conforme se necesiten)
